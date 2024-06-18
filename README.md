@@ -1,6 +1,5 @@
-# 🇷🇴:
-
-Acest cod NetLogo simulează un sistem simplu de colectare a resurselor și de construire de structuri, implicând trei categorii: muncitori, resurse și clădiri. Simularea se desfășoară astfel:
+# <p align="center">🇷🇴: Acest cod NetLogo simulează un sistem simplu de colectare a resurselor și de construire de structuri, implicând trei categorii: muncitori, resurse și clădiri.</p>
+## Simularea se desfășoară astfel:
 
 ### Inițializare (procedura setup):
 
@@ -20,9 +19,8 @@ Acest cod NetLogo simulează un sistem simplu de colectare a resurselor și de c
 ### Managementul resurselor (procedura resources-at-patch):
 - Acest reporter verifică dacă există resurse pe patch-ul curent al unui muncitor.
 
- # 🇬🇧: 
-
-This NetLogo code simulates a simple resource collection and building construction system involving three breeds: workers, resources, and buildings. The simulation proceeds as follows:
+ # <p align="center">🇬🇧: This NetLogo code simulates a simple resource collection and building construction system involving three breeds: workers, resources, and buildings.</p> 
+ ## The simulation proceeds as follows:
 
 ### Initialization (setup procedure):
 
